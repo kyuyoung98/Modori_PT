@@ -1,0 +1,102 @@
+{
+	"Item0": {
+		"id": 0,
+		"rank": 1,
+		"name": "lsj",
+		"exerciseDetail": {
+			"crunchPoints": 100,
+			"lungePoints": 100,
+			"squatPoints": 100,
+		}
+	},
+	"Item1": {
+        "id": 1,
+        "rank": 2,
+        "name": "ltk",
+        "exerciseDetail": {
+            "crunchPoints": 300,
+            "lungePoints": 300,
+            "squatPoints": 300,
+        }
+    },
+	"Item2": {
+        "id": 2,
+        "rank": 3,
+        "name": "jku",
+        "exerciseDetail": {
+            "crunchPoints": 900,
+            "lungePoints": 900,
+            "squatPoints": 900,
+        }
+    },
+	"Item3": {
+        "id": 3,
+        "rank": 4,
+        "name": "pgi",
+        "exerciseDetail": {
+            "crunchPoints": 500,
+            "lungePoints": 500,
+            "squatPoints": 500,
+        }
+    },
+	"Item4": {
+        "id": 4,
+        "rank": 5,
+        "name": "shj",
+        "exerciseDetail": {
+            "crunchPoints": 800,
+            "lungePoints": 800,
+            "squatPoints": 800,
+        }
+    },
+	"Item5": {
+        "id": 5,
+        "rank": 6,
+        "name": "kcs",
+        "exerciseDetail": {
+            "crunchPoints": 700,
+            "lungePoints": 700,
+            "squatPoints": 700,
+        }
+    },
+	"Item6": {
+        "id": 6,
+        "rank": 7,
+        "name": "koh",
+        "exerciseDetail": {
+            "crunchPoints": 600,
+            "lungePoints": 600,
+            "squatPoints": 600,
+        }
+    },
+	"Item7": {
+        "id": 7,
+        "rank": 8,
+        "name": "ssu",
+        "exerciseDetail": {
+            "crunchPoints": 200,
+            "lungePoints": 200,
+            "squatPoints": 200,
+        }
+    },
+	"Item8": {
+        "id": 8,
+        "rank": 9,
+        "name": "cpj",
+        "exerciseDetail": {
+            "crunchPoints": 400,
+            "lungePoints": 400,
+            "squatPoints": 400,
+        }
+    },
+	"Item9":{
+        "id": 9,
+        "rank": 10,
+        "name":"rkh",
+        "exerciseDetail": {
+            "crunchPoints": 700,
+            "lungePoints": 700,
+            "squatPoints": 700,
+        }
+    }
+}

@@ -1,0 +1,6 @@
+framework module Pods_Modori_PT_Proto {
+  umbrella header "Pods-Modori_PT_Proto-umbrella.h"
+
+  export *
+  module * { export * }
+}

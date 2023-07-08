@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>45031640503-rpc3ni9h574ina58sjfs9ueh2gn1a0ec.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.45031640503-rpc3ni9h574ina58sjfs9ueh2gn1a0ec</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCSuu07Ig50F__GWkofLIwxTb0dNdyhsAA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>45031640503</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Modori-PT-Proto</string>
+	<key>PROJECT_ID</key>
+	<string>modori-proto</string>
+	<key>STORAGE_BUCKET</key>
+	<string>modori-proto.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:45031640503:ios:4198684824b5327ea9ec32</string>
+</dict>
+</plist>
